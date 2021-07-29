@@ -9,18 +9,18 @@ Este é um script de controlador de voz de proximidade. O controle padrão para 
 
 **1) Usando [fvm](https://github.com/qlaffont/fvm-installer)**
 ```
-fvm install --save --folder=esx esx-org/esx_voice
+fvm install --save --folder=esx esx-organization/esx_voice
 ```
 
 **2) Manualmente**
-- Download https://github.com/ESX-Org/esx_voice/releases/latest
+- Download https://github.com/esx-organization/esx_voice/releases/latest
 - Coloque-o no diretório `[esx]`
 
 **3) Usando o Git**
 
 ```
 cd resouces
-git clone https://github.com/ESX-Org/esx_voice
+git clone https://github.com/esx-organization/esx_voice
 ```
 
 #### Instalação
